@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_item_loan_detail_edit" type="id">menu</item>
+    <item name="menu_item_loan_detail_delete" type="id">menu</item>
+</resources>
